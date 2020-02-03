@@ -1,0 +1,27 @@
+
+ .galva {
+        color:#66ccff;
+        background-color:green;
+        text-align: center;
+        font-size: 30pt;
+    }
+    body
+{
+    background-color: #ffff99
+}
+p.tekstas
+{
+    color:red;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.listas
+{
+    color: orange;
+    font-size:25pt;
+}
+#vardas 
+{
+    font-size: 10pt;
+    color: black;
+} 

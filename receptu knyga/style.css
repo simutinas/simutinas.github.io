@@ -1,0 +1,51 @@
+.antraste
+{
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-size: 30pt;
+    font-weight: bold;
+}
+table
+{
+    height: 200pt;
+    width: 300pt;
+}
+table, td{
+
+    border: 1pt solid red;
+    background-color: black;
+    margin: auto
+}
+body{
+
+    background-color: black;
+    color: white;
+}
+ab.td
+{
+    font-size: 30pt
+}
+td 
+{
+    font-weight: bold;
+        text-align: center;
+}
+a.linkas:hover
+{
+    
+    color:yellow;
+    font-size: 20pt;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: white
+
+}
+#vardas 
+{
+    font-size: 20pt;
+    color: white;
+    text-align: right
+} 
