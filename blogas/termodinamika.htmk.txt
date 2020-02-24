@@ -1,0 +1,7 @@
+<html>
+    <head>
+            <h1 class="antraste"> Chemijos santrauka </h1>
+            <h1 class="vardas" > Simas Paluckas</h1>
+            <meta charset="utf-8">
+            <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
