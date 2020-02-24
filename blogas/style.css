@@ -1,0 +1,80 @@
+.b
+{
+    background-color: black;
+    color:red;
+    padding:20px;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+img{
+    height: 100%;
+    margin:left;
+}
+.bb
+{
+    background-color: green;
+    width: 35%;
+    display: block;
+    float: left;
+    text-align: left;
+    height: 200px;
+}
+.ant{
+    background-color: yellow;
+    display: block;
+    float: left;
+    width: 40%;
+    height: 200px;
+
+}
+.visas
+{
+    background-color: black;
+    width: 100%;
+}
+p{
+    font-size: 10pt;
+    text-align: center
+
+}
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    font-size: 15pt;
+    text-emphasis: bold;
+
+}
+.vardas
+{
+    text-align: left;
+    color: white
+
+
+}
+a.linkas:hover{
+    color: green;
+    font-weight: bold;
+    target: blank;
+}
+body
+{
+    background-color: black
+}
+.antraste
+
+{
+    color: white
+}
+.data
+{
+    color: black;
+    text-align: center;
+    font-weight: bold
+}
+.tekstas
+{
+    color: white;
+    text-align: left
+
+}
